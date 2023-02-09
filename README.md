@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sflan02
-- 👀 I’m interested in data analytics and data science.
-- 🌱 I’m currently learning C++, Python and R.
-- 💞️ I’m looking to collaborate on data analytics projects.
-- 📫 How to reach me, smflanagan01@gmail.com
+- 🌱 I’m primarily using Python to code these days
+-  I’m looking to collaborate on data analytics and machine learning projects.
+-  Looking for help? Email me @ smflanagan01@gmail.com
 
 <!---
 sflan02/sflan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
